@@ -48,7 +48,7 @@ public class MainActivity extends ActionBarActivity {
     private static final String TAG_NAME = "name";
     private static final String TAG_DATE = "date";
 
-
+//Testing testing 123
 
     // products JSONArray
     JSONArray products = null;
